@@ -33,3 +33,19 @@ img {
 	margin: 20px auto 0 auto;
 	display: block;
 }
+/* the 'body' selector is required for the tests to pass */
+/* You can change the style attributes if you want */
+body {
+  background-color: #222;
+  color: #ddd;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 4em;
+}
+
+input[type=text], label {
+  margin-bottom: 8px;
+}
