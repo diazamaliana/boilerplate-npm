@@ -10,6 +10,7 @@
 	},
 	"author": "Diaz Amaliana <diazamaliana@gmail.com>",
   "keywords": [ "descriptive", "related", "words", "freecodecamp" ],
+  "license": "MIT",
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
