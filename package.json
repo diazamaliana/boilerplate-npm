@@ -9,6 +9,7 @@
 		"start": "node server.js"
 	},
 	"author": "Diaz Amaliana <diazamaliana@gmail.com>",
+  "keywords": [ "descriptive", "related", "words", "freecodecampe" ],
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
